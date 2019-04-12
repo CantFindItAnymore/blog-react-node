@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+@import './assets/reset.css';
+@import './assets/iconfont/iconfont.css';
+
+/* @media screen and (max-width: 650px) {
+  .up-container {
+    display: none !important;
+  }
+} */
+.ant-back-top-inner {
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  background: orange;
+  text-align: center;
+  border-radius: 50%;
+  color: red;
+  font-size: 16px;
+  font-weight: bolder;
+}
