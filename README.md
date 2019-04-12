@@ -1,4 +1,4 @@
-[！[ js-standard-style ]（https://img.shields.io/badge/code%20style-standard-brightgreen.svg）]（https://github.com/standard/standard）
+[![ js-standard-style ]（https://img.shields.io/badge/code%20style-standard-brightgreen.svg）]（https://github.com/standard/standard）
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
